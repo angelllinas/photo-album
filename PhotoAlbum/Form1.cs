@@ -293,7 +293,7 @@ namespace PhotoAlbum
             {
                 int id = int.Parse(tb_id.Text);
                 string query = "DELETE FROM photo_board WHERE id = @id";
-
+                
                 try
                 {
                     using (MySqlConnection connect = new MySqlConnection(connectionString))
@@ -308,7 +308,7 @@ namespace PhotoAlbum
                             if (rowsAffected > 0)
                             {
                                 MessageBox.Show("Record deleted successfully.",
-                               "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                               "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
                                 return;
                             }
                             else

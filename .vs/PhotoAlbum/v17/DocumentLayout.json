@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\angelllinas\\Documents\\vs projects\\PhotoAlbum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BE51695-6C21-4420-9FA9-CE64DDC76399}|PhotoAlbum\\PhotoAlbum.csproj|c:\\users\\angelllinas\\documents\\vs projects\\photoalbum\\photoalbum\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BE51695-6C21-4420-9FA9-CE64DDC76399}|PhotoAlbum\\PhotoAlbum.csproj|solutionrelative:photoalbum\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BE51695-6C21-4420-9FA9-CE64DDC76399}|PhotoAlbum\\PhotoAlbum.csproj|c:\\users\\angelllinas\\documents\\vs projects\\photoalbum\\photoalbum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE51695-6C21-4420-9FA9-CE64DDC76399}|PhotoAlbum\\PhotoAlbum.csproj|solutionrelative:photoalbum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BE51695-6C21-4420-9FA9-CE64DDC76399}|PhotoAlbum\\PhotoAlbum.csproj|C:\\Users\\angelllinas\\Documents\\vs projects\\PhotoAlbum\\photoalbum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1BE51695-6C21-4420-9FA9-CE64DDC76399}|PhotoAlbum\\PhotoAlbum.csproj|solutionrelative:photoalbum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BE51695-6C21-4420-9FA9-CE64DDC76399}|PhotoAlbum\\PhotoAlbum.csproj|c:\\users\\angelllinas\\documents\\vs projects\\photoalbum\\photoalbum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BE51695-6C21-4420-9FA9-CE64DDC76399}|PhotoAlbum\\PhotoAlbum.csproj|solutionrelative:photoalbum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,33 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\angelllinas\\Documents\\vs projects\\PhotoAlbum\\PhotoAlbum\\Form1.cs",
               "RelativeDocumentMoniker": "PhotoAlbum\\Form1.cs",
               "ToolTip": "C:\\Users\\angelllinas\\Documents\\vs projects\\PhotoAlbum\\PhotoAlbum\\Form1.cs",
               "RelativeToolTip": "PhotoAlbum\\Form1.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgBAAAAAAAAAAAAAEwBAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T19:51:35.031Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\angelllinas\\Documents\\vs projects\\PhotoAlbum\\PhotoAlbum\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "PhotoAlbum\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\angelllinas\\Documents\\vs projects\\PhotoAlbum\\PhotoAlbum\\Form1.Designer.cs",
-              "RelativeToolTip": "PhotoAlbum\\Form1.Designer.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T16:27:42.12Z",
               "EditorCaption": ""
             },
             {

@@ -19,3 +19,4 @@ C:\Users\angelllinas\Documents\vs projects\PhotoAlbum\PhotoAlbum\bin\Debug\net8.
 C:\Users\angelllinas\Documents\vs projects\PhotoAlbum\PhotoAlbum\bin\Debug\net8.0-windows\MySqlConnector.dll
 C:\Users\angelllinas\Documents\vs projects\PhotoAlbum\PhotoAlbum\obj\Debug\net8.0-windows\PhotoAlbum.csproj.AssemblyReference.cache
 C:\Users\angelllinas\Documents\vs projects\PhotoAlbum\PhotoAlbum\obj\Debug\net8.0-windows\PhotoAlbum.csproj.Up2Date
+C:\Users\angelllinas\Documents\vs projects\PhotoAlbum\PhotoAlbum\obj\Debug\net8.0-windows\PhotoAlbum.sourcelink.json
